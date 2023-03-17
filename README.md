@@ -36,4 +36,4 @@ THEN the saved events persist
 
 # Links 
 Link to deployed website:
-Link to github repository: 
+Link to github repository: https://github.com/aricoia/work-scheduler
